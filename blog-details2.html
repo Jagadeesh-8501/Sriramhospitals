@@ -1,0 +1,376 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Neonal - Medical Service Bootstrap 5 Template</title>
+    
+        <!-- Favicons -->
+        <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicon/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicon/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicon/favicon-16x16.png">
+        <link rel="manifest" href="assets/images/favicon/site.webmanifest">
+        <link rel="mask-icon" href="assets/images/favicon/safari-pinned-tab.svg" color="#5bbad5">
+        <meta name="msapplication-TileColor" content="#da532c">
+        <meta name="theme-color" content="#ffffff">    
+        <!-- Vendor CSS (Icon Font) -->
+    
+         
+        <link rel="stylesheet" href="assets/css/vendor/icofont.min.css" />
+        <link rel="stylesheet" href="assets/css/vendor/bootstrap.min.css" /> 
+    
+        <!-- Plugins CSS (All Plugins Files) -->
+    
+ 
+        <link rel="stylesheet" href="assets/css/plugins/swiper-bundle.min.css" />
+        <link rel="stylesheet" href="assets/css/plugins/animate.min.css" />
+        <link rel="stylesheet" href="assets/css/plugins/aos.min.css" />
+        <link rel="stylesheet" href="assets/css/plugins/splitting.min.css" />
+        <link rel="stylesheet" href="assets/css/plugins/nice-select.min.css" />
+        <link rel="stylesheet" href="assets/css/plugins/jquery-ui.min.css" />
+        <link rel="stylesheet" href="assets/css/plugins/magnific-popup-min.css" />
+    
+        <!-- Use the minified version files listed below for better performance and remove the files listed above -->
+    
+        
+<!-- <link rel="stylesheet" href="assets/css/vendor/vendor.min.css">
+        <link rel="stylesheet" href="assets/css/plugins/plugins.min.css">
+        <link rel="stylesheet" href="assets/css/style.min.css">   -->
+    
+    
+        <!-- Main Style CSS -->
+    
+        
+        <link rel="stylesheet" href="assets/css/style.css" />
+    
+    </head>
+
+<body>
+
+    <!-- Header Section Start -->
+    <div class="header">
+        <div class="sticky-header">
+            <div class="header-container container">
+                <div class="header-wrapper">
+
+                    <!-- Header Logo Start -->
+                    <div class="header-logo">
+                        <a href="index.html"><img src="assets/images/logo/logo.png" alt="Logo"></a>
+                    </div>
+                    <!-- Header Logo End -->
+
+                    <!-- Header Menu Start -->
+                    <div class="main-menu d-none d-lg-flex">
+                        <ul>
+                            <li><a href="index.html">Home</a></li>
+                            <li><a href="about.html">About Us</a></li>
+                            <li class="has-children"><a href="service.html">Service</a>
+                                <ul class="sub-menu">
+                                <li><a href="javascript:void(0);" onclick="openService('shoulderInjuriesDisorders');">Shoulder Injuries and Disorders</a></li>
+                                <li><a href="javascript:void(0);" onclick="openService('kneeInjuriesDisorders');">Knee Injuries and Disorders</a></li>
+                                <li><a href="javascript:void(0);" onclick="openService('orthopedicTotalJointReplacement');">Orthopedic Total Joint Replacement</a></li>
+                                <li><a href="javascript:void(0);" onclick="openService('backInjuriesDisorders');">Back Injuries and Disorders</a></li>
+                                <li><a href="javascript:void(0);" onclick="openService('fractures');">Broken Bones (Fractures)</a></li>
+                                <li><a href="javascript:void(0);" onclick="openService('hipInjuriesDisorders');">Hip Injuries and Disorders</a></li>
+                                <li><a href="javascript:void(0);" onclick="openService('elbowInjuriesDisorders');">Elbow Injuries and Disorders</a></li>
+                                <li><a href="javascript:void(0);" onclick="openService('handWristInjuriesDisorders');">Hand and Wrist Injuries & Disorders</a></li>         
+                                <li><a href="javascript:void(0);" onclick="openService('footAnkleInjuriesDisorders');">Foot and Ankle Injuries and Disorders</a></li>         
+                            </ul>
+                        </li>
+                            <li class="has-children">
+                                <a class="active"  href="blog-grid.html">Blog</a>
+                            </li>
+                            <li><a href="contact.html">Contact</a></li>
+                        </ul>
+                    </div>
+                    <!-- Header Menu End -->
+
+                    <!-- Header Actions Start -->
+                    <div class="header-actions">
+
+                        <!-- Appoinment Button Start -->
+                        <div class="appoinment-button">
+                            <a href="contact.html" class="btn btn-outline-success btn-hover-success">Appoinment<i class="icofont-calendar"></i></a>
+                        </div>
+                        <!-- Appoinment Button End -->
+
+                        <!-- Mobile Menu Hambarger Action Button Start -->
+                        <a class="header-action-btn header-action-btn-menu d-lg-none d-md-flex" href="#/">
+                            <i class="icofont-navigation-menu"></i>
+                        </a>
+                        <!-- Mobile Menu Hambarger Action Button End -->
+
+                    </div>
+                    <!-- Header Actions End -->
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Header Section End -->
+
+    <!-- Breadcrumb Section Start -->
+    <div class="section breadcrumb-section bg-name-primary">
+        <div class="layer shape-1"></div>
+        <div class="container section-padding">
+            <div class="row">
+                <div class="col-12 align-items-center text-center">
+                    <!-- Breadcrumb Wrapper Start -->
+                    <div class="breadcrumb-wrapper">
+                        <h1 class="title">Blog Details</h1>
+                        <ul class="breadcrumb-list">
+                            <li><a href="index.html">Home</a></li>
+                            <li>Blog Details</li>
+                        </ul>
+                    </div>
+                    <!-- Breadcrumb Wrapper End -->
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Breadcrumb Section End -->
+
+    <!-- Blog Details section Start -->
+    <div class="section section-margin">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 m-auto p-lg-0">
+
+                    <!-- Blog Details Wrapper Start -->
+                    <div class="blog-details-wrapper">
+
+                        <!-- Blog Details Content Start -->
+                        <div class="blog-details-content" data-aos="fade-up" data-aos-duration="1800">
+
+                            <h2 class="title">Understanding Shoulder Injuries: Causes and Treatment Options</h2>
+
+                            <ul class="details-meta" data-aos="fade-up" data-aos-duration="1800">
+                                <li>
+                                    <h4 class="meta-title">Orthopedics</h4>
+                                </li>
+                            </ul>
+
+                            <p>The shoulder is one of the most flexible joints in the body, allowing for a wide range of movement. However, this flexibility also makes it susceptible to injury. Whether it’s a sudden accident or wear and tear over time, shoulder injuries can be debilitating. Common shoulder issues include rotator cuff tears, frozen shoulder, and arthritis. Early diagnosis is crucial to prevent long-term damage.</p>
+
+
+
+                            <img src="assets/images/blog/2.jpg" alt="Blog Details Image" data-aos="fade-up" data-aos-duration="1800">
+                            <ol data-aos="fade-up" data-aos-duration="1800">
+                                <li>Shoulder injuries often result from overuse, repetitive motion, or sudden trauma.</li>
+                                <li>Symptoms may include pain, stiffness, swelling, and a limited range of motion.</li>
+                                <li>Advanced imaging techniques like MRIs and X-rays are vital for an accurate diagnosis.</li>
+                            </ol>
+
+                            <div class="blockquote-area" data-aos="fade-up" data-aos-duration="1800">
+                                <blockquote class="blockquote">
+                                    <p>Proper diagnosis and treatment can restore mobility and relieve pain, allowing you to get back to your daily activities.</p>
+                                    <div class="icon">”</div>
+                                </blockquote>
+                            </div>
+
+                            <p>Treatment options vary depending on the severity of the injury. Physical therapy is often the first line of treatment, aiming to strengthen the muscles around the shoulder. For more severe cases, minimally invasive surgeries like arthroscopy or even total shoulder replacement may be necessary. Recovery also includes a comprehensive rehabilitation plan to restore full functionality and prevent future injuries.</p>
+
+
+                        </div>
+                        <!-- Blog Details Content End -->
+
+
+                    </div>
+                    <!-- Blog Details Wrapper Start -->
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Blog Details section End -->
+
+    <!-- Footer Section Start -->
+    <footer class="section footer-section">
+        <!-- Footer Top Start -->
+        <div class="footer-top bg-name-primary " style="padding: 5%;">
+            <!-- Shape Start -->
+            <div class="footer-shape-left layer-shape"></div>
+            <div class="footer-shape-right layer-shape"></div>
+            <!-- Shape End -->
+            <div class="container">
+                <div class="row m-b-n40">
+                    <div class="col-12 col-md-6 col-lg-3 col-xl-5 m-b-40 " data-aos="fade-up" data-aos-duration="1000">
+                        <div class="single-footer-widget col-xl-5 text-center justify-content-center" >
+                            <div class="footer-logo m-b-20">
+                                <a href="index.html"><img src="assets/images/logo/logo.png" alt="Logo"></a>
+                            </div>
+                            <p class="desc-content m-b-35">Personalized treatment plans tailored to your orthopedic needs, ensuring optimal outcomes.</p>
+                            <div class="appoinment-button">
+                                <a href="contact.html" class="btn btn-outline-success btn-hover-success">Appoinment<i class="icofont-calendar"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-6 col-lg-2 col-xl-3 m-b-40" data-aos="fade-up" data-aos-duration="1500">
+                        <div class="single-footer-widget">
+                            <h4 class="widget-title">Quick Links</h4>
+                            <ul class="widget-list">
+                                <li><a href="index.html"><i class="icofont-plus"></i> Home</a></li>
+                                <li><a href="about.html"><i class="icofont-plus"></i> About Us</a></li>
+                                <li><a href="service.html"><i class="icofont-plus"></i> Service</a></li>
+                                <li><a href="about.html"><i class="icofont-plus"></i> Doctors</a></li>
+                                <li><a href="contact.html"><i class="icofont-plus"></i> Contact Us</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-6 col-lg-4 col-xl-4 m-b-40" data-aos="fade-up" data-aos-duration="2000">
+                        <div class="single-footer-widget single-footer-space-left">
+                            <h4 class="widget-title">Services</h4>
+                            <ul class="widget-list">
+                                <li><a href="javascript:void(0);" onclick="openService('shoulderInjuriesDisorders');"><i class="icofont-plus"></i>Shoulder Injuries and Disorders</a></li>
+                                <li><a href="javascript:void(0);" onclick="openService('kneeInjuriesDisorders');"><i class="icofont-plus"></i>Knee Injuries and Disorders</a></li>
+                                <li><a href="javascript:void(0);" onclick="openService('orthopedicTotalJointReplacement');"><i class="icofont-plus"></i>Orthopedic Total Joint Replacement</a></li>
+                                <li><a href="javascript:void(0);" onclick="openService('backInjuriesDisorders');"><i class="icofont-plus"></i>Back Injuries and Disorders</a></li>
+                                <li><a href="javascript:void(0);" onclick="openService('fractures');"><i class="icofont-plus"></i>Broken Bones (Fractures)</a></li>
+                                <li><a href="javascript:void(0);" onclick="openService('hipInjuriesDisorders');"><i class="icofont-plus"></i>Hip Injuries and Disorders</a></li>
+                                <li><a href="javascript:void(0);" onclick="openService('elbowInjuriesDisorders');"><i class="icofont-plus"></i>Elbow Injuries and Disorders</a></li>
+                                <li><a href="javascript:void(0);" onclick="openService('handWristInjuriesDisorders');"><i class="icofont-plus"></i>Hand and Wrist Injuries & Disorders</a></li>         
+                                <li><a href="javascript:void(0);" onclick="openService('footAnkleInjuriesDisorders');"><i class="icofont-plus"></i>Foot and Ankle Injuries and Disorders</a></li>         
+                            </ul>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+        <!-- Footer Top End -->
+
+        <!-- Footer Bottom Start -->
+        <div class="footer-bottom bg-name-primary p-t-20 p-b-20">
+            <div class="container">
+                <div class="row m-b-n10">
+                    <div class="col-md-6 m-b-10">
+                        <div class="copyright-content">
+                            <p class="mb-0">© <span id="year"></span><script>document.getElementById("year").textContent = new Date().getFullYear();</script> All rights reserved <strong class="text-color-success">Sri Ram Clinics </strong> | Developed by <a href="http://www.vmedianadvertising.com/" class="text-color-success">V Media and Advertising</a></p>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+        <!-- Footer Bottom End -->
+    </footer>
+    <!-- Footer Section End -->
+
+    <!-- Scroll Top Start -->
+    <a href="#" class="scroll-top show" id="scroll-top">
+        <i class="arrow-top icofont-bubble-up"></i>
+        <i class="arrow-bottom icofont-bubble-up"></i>
+    </a>
+    <!-- Scroll Top End -->
+
+    <!-- Mobile Menu Start -->
+
+    <!-- Mobile Menu Start -->
+    <div class="mobile-menu-wrapper">
+        <div class="offcanvas-overlay"></div>
+
+        <!-- Mobile Menu Inner Start -->
+        <div class="mobile-menu-inner">
+
+            <!-- Button Close Start -->
+            <div class="offcanvas-btn-close">
+                <i class="icofont-close-line"></i>
+            </div>
+            <!-- Button Close End -->
+
+            <!-- Mobile Menu Inner Wrapper Start -->
+            <div class="mobile-menu-inner-wrapper">
+
+                <!-- Appoinment Button Start -->
+                <div class="appoinment-button">
+                    <a href="contact.html" class="btn btn-outline-success btn-hover-success">Appoinment<i class="icofont-calendar"></i></a>
+                </div>
+                <!-- Appoinment Button End -->
+
+                <!-- Mobile Menu Start -->
+                <div class="mobile-navigation">
+                    <nav>
+                        <ul class="mobile-menu">
+                            <li><a href="index.html">Home</a></li>
+                            <li><a href="about.html">About Us</a></li>
+                            <li><a href="service.html">Service</a></li>
+                            <li class="has-children">
+                                <a href="#">Services Details<i class="icofont-dotted-down" aria-hidden="true"></i></a>
+                                <ul class="dropdown">
+                                    <li><a href="javascript:void(0);" onclick="openService('shoulderInjuriesDisorders');">Shoulder Injuries and Disorders</a></li>
+                                    <li><a href="javascript:void(0);" onclick="openService('kneeInjuriesDisorders');">Knee Injuries and Disorders</a></li>
+                                    <li><a href="javascript:void(0);" onclick="openService('orthopedicTotalJointReplacement');">Orthopedic Total Joint Replacement</a></li>
+                                    <li><a href="javascript:void(0);" onclick="openService('backInjuriesDisorders');">Back Injuries and Disorders</a></li>
+                                    <li><a href="javascript:void(0);" onclick="openService('fractures');">Broken Bones (Fractures)</a></li>
+                                    <li><a href="javascript:void(0);" onclick="openService('hipInjuriesDisorders');">Hip Injuries and Disorders</a></li>
+                                    <li><a href="javascript:void(0);" onclick="openService('elbowInjuriesDisorders');">Elbow Injuries and Disorders</a></li>
+                                    <li><a href="javascript:void(0);" onclick="openService('handWristInjuriesDisorders');">Hand and Wrist Injuries & Disorders</a></li>         
+                                    <li><a href="javascript:void(0);" onclick="openService('footAnkleInjuriesDisorders');">Foot and Ankle Injuries and Disorders</a></li> 
+                                </ul>
+                            </li>
+                            <li>
+                                <a href="#">Blog </a>
+                            </li>
+                            <li><a href="contact.html">Contact</a></li>
+                        </ul>
+                    </nav>
+                </div>
+                <!-- Mobile Menu End -->
+
+                <!-- Contact Links/Social Links Start -->
+                <div class="mt-auto bottom-0">
+
+                    <!-- Contact Links Start -->
+                    <ul class="contact-links">
+                        <li><i class="icofont-phone"></i><a href="tel:+91 9701000220">+91 9701000220</a></li>
+                        <li><i class="icofont-envelope-open"></i><a 
+ href="mailto:srinivasclinic@gmail.com">srinivasclinic@gmail.com</a></li>
+                    </ul>
+                    <!-- Contact Links End -->
+                </div>
+                <!-- Contact Links/Social Links End -->
+            </div>
+            <!-- Mobile Menu Inner Wrapper End -->
+
+        </div>
+        <!-- Mobile Menu Inner End -->
+    </div>
+    <!-- Mobile Menu End -->
+
+    <!-- Global Vendor, plugins JS -->
+
+    <!-- Vendor JS -->
+
+    
+    <script src="assets/js/vendor/popper.min.js"></script>
+    <script src="assets/js/vendor/bootstrap.min.js"></script>
+    <script src="assets/js/vendor/jquery-3.6.0.min.js"></script>
+    <script src="assets/js/vendor/jquery-migrate-3.3.2.min.js"></script>
+    <script src="assets/js/vendor/modernizr-3.11.2.min.js"></script>
+
+    <!-- Plugins JS -->
+
+    
+    <script src="assets/js/plugins/aos.min.js"></script>
+    <script src="assets/js/plugins/jquery.ajaxchimp.min.js"></script>
+    <script src="assets/js/plugins/jquery-ui.min.js"></script>
+    <script src="assets/js/plugins/nice-select.min.js"></script>
+    <script src="assets/js/plugins/splitting.min.js"></script>
+    <script src="assets/js/plugins/isotope.pkgd.min.js"></script>
+    <script src="assets/js/plugins/swiper-bundle.min.js"></script>
+    <script src="assets/js/plugins/jquery.magnific-popup.min.js"></script> 
+
+    <!-- Use the minified version files listed below for better performance and remove the files listed above -->
+
+    
+<!-- <script src="assets/js/vendor.min.js"></script>
+    <script src="assets/js/plugins.min.js"></script>   -->
+    <script src="service_selector.js"></script>
+
+
+    <!--Main JS-->
+    <script src="assets/js/main.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,164 @@
+{
+  "shoulderInjuriesDisorders": {
+    "title": "Shoulder Injuries and Disorders",
+    "image": "assets/images/service/s1.jpg",
+    "paragraphs": [
+      "Our Orthopedic Department is dedicated to diagnosing and treating shoulder injuries and disorders with precision and care. The shoulder is a complex joint, and our experienced team provides comprehensive services to manage various conditions, from rotator cuff tears to arthritis.",
+      "<h4>Expert Shoulder Care</h4>",
+      "Our orthopedic specialists offer personalized treatment plans to address the specific needs of each patient. Whether you require physical therapy, medication, or surgical intervention, our team is equipped to provide the most effective care for your shoulder condition.",
+      "<h4>Comprehensive Treatment Options</h4>",
+      "We provide a full range of services, including minimally invasive arthroscopy, shoulder replacement surgery, and rehabilitation programs, all designed to restore mobility and relieve pain. Our focus is on helping patients regain full function and return to their daily activities."
+    ],
+    "listItems": [
+      "<b>Diagnostic Imaging</b>: We use advanced imaging techniques to accurately diagnose shoulder injuries and disorders, ensuring the best possible treatment options are selected.",
+      "<b>Minimally Invasive Surgery</b>: Our team is skilled in performing arthroscopic procedures that minimize recovery time and reduce discomfort.",
+      "<b>Physical Therapy</b>: Customized rehabilitation plans help patients regain strength and mobility post-treatment.",
+      "<b>Comprehensive Pain Management</b>: We offer a range of options to manage pain, including medications, injections, and non-surgical therapies."
+    ],
+    "paragraph2": "Our goal is to provide patient-centered care that prioritizes both immediate relief and long-term shoulder health. We are here to support you every step of the way, ensuring you receive the best possible outcome for your condition."
+  },
+  "kneeInjuriesDisorders": {
+    "title": "Knee Injuries and Disorders",
+    "image": "assets/images/service/s2.jpg",
+    "paragraphs": [
+      "Our Knee Care Program offers advanced treatment options for a wide range of knee injuries and disorders, including ligament tears, arthritis, and patellar dislocations.",
+      "<h4>Comprehensive Knee Care</h4>",
+      "Our orthopedic specialists use the latest techniques to treat both acute and chronic knee conditions. Whether it's conservative management or surgical intervention, we tailor treatment plans to meet each patient's needs.",
+      "<h4>Advanced Surgical Techniques</h4>",
+      "We specialize in minimally invasive knee surgeries, including arthroscopic ligament repair and total knee replacement, ensuring faster recovery and better outcomes for our patients."
+    ],
+    "listItems": [
+      "<b>Advanced Imaging</b>: Accurate diagnosis using MRI, X-ray, and other advanced imaging tools.",
+      "<b>Knee Arthroscopy</b>: Minimally invasive surgery to treat ligament tears and other internal knee issues.",
+      "<b>Knee Replacement Surgery</b>: For severe arthritis or injury, we offer both partial and total knee replacement options.",
+      "<b>Rehabilitation Services</b>: Post-surgery rehab programs focused on restoring full knee function."
+    ],
+    "paragraph2": "We are committed to helping patients recover from knee injuries and regain their mobility. Our comprehensive approach ensures that you receive the highest quality care for your knee condition."
+  },
+  "orthopedicTotalJointReplacement": {
+    "title": "Orthopedic Total Joint Replacement",
+    "image": "assets/images/service/s3.jpg",
+    "paragraphs": [
+      "Our Orthopedic Total Joint Replacement service offers expert care for patients needing hip, knee, or shoulder replacements. We focus on providing lasting relief from pain and restoring mobility through advanced surgical techniques.",
+      "<h4>Advanced Joint Replacement Surgery</h4>",
+      "Our orthopedic surgeons are skilled in performing total joint replacement surgeries, utilizing the latest materials and techniques to ensure long-term success. Each surgery is tailored to the patient’s unique condition, ensuring the best possible outcomes.",
+      "<h4>Comprehensive Pre- and Post-Surgical Care</h4>",
+      "We offer thorough preoperative consultations and personalized rehabilitation plans to ensure smooth recovery and the best possible results."
+    ],
+    "listItems": [
+      "<b>Preoperative Assessment</b>: Thorough evaluation to determine the best approach for each joint replacement surgery.",
+      "<b>Minimally Invasive Surgery</b>: Whenever possible, we use techniques that reduce recovery time and discomfort.",
+      "<b>Custom Implants</b>: We use high-quality, personalized implants designed to last and function optimally.",
+      "<b>Rehabilitation</b>: Comprehensive rehabilitation plans that promote healing and restore mobility post-surgery."
+    ],
+    "paragraph2": "We are committed to providing expert care and support throughout your joint replacement journey, helping you regain your quality of life."
+  },
+  "backInjuriesDisorders": {
+    "title": "Back Injuries and Disorders",
+    "image": "assets/images/service/s4.jpg",
+    "paragraphs": [
+      "Back pain can significantly affect your daily life, and our team is here to help with comprehensive care for back injuries and disorders. From herniated discs to spinal stenosis, we offer solutions that relieve pain and improve function.",
+      "<h4>Back Pain Relief</h4>",
+      "Our back care specialists provide a range of treatment options, including non-surgical therapies and advanced spinal surgeries. We focus on delivering personalized care to reduce pain and restore mobility.",
+      "<h4>Comprehensive Spine Care</h4>",
+      "Whether you suffer from acute or chronic back pain, we have the expertise to offer targeted solutions, including physical therapy, pain management, and, when necessary, surgical intervention."
+    ],
+    "listItems": [
+      "<b>Spinal Imaging</b>: State-of-the-art imaging for accurate diagnosis of spinal conditions.",
+      "<b>Non-Surgical Treatments</b>: Physical therapy and pain management options for less severe conditions.",
+      "<b>Minimally Invasive Surgery</b>: Surgical solutions for herniated discs, spinal stenosis, and more.",
+      "<b>Rehabilitation Programs</b>: Tailored rehabilitation plans to restore strength and mobility after surgery."
+    ],
+    "paragraph2": "Our goal is to help patients overcome back pain and return to their daily activities with improved quality of life."
+  },
+  "fractures": {
+    "title": "Broken Bones (Fractures)",
+    "image": "assets/images/service/s5.jpg",
+    "paragraphs": [
+      "Fractures can happen to anyone, and our orthopedic specialists provide expert care to ensure quick and effective recovery. From simple breaks to complex fractures, we offer comprehensive treatment options tailored to each patient.",
+      "<h4>Comprehensive Fracture Care</h4>",
+      "We treat a wide range of fractures, including those of the arms, legs, and ribs. Our team is skilled in both non-surgical and surgical management, providing the best possible outcomes.",
+      "<h4>Recovery and Rehabilitation</h4>",
+      "Our rehabilitation programs are designed to ensure a full recovery, helping patients regain strength and mobility post-treatment."
+    ],
+    "listItems": [
+      "<b>Fracture Diagnosis</b>: Accurate diagnosis using X-rays and other imaging techniques.",
+      "<b>Casting and Splinting</b>: We provide effective non-surgical treatment options for simple fractures.",
+      "<b>Surgical Fixation</b>: For complex fractures, we offer advanced surgical interventions, including the use of plates, screws, and pins.",
+      "<b>Rehabilitation</b>: Post-treatment rehabilitation to ensure full recovery and prevent long-term complications."
+    ],
+    "paragraph2": "We aim to provide timely and effective care for fractures, ensuring that patients recover as quickly and completely as possible."
+  },
+  "hipInjuriesDisorders": {
+    "title": "Hip Injuries and Disorders",
+    "image": "assets/images/service/s6.jpg",
+    "paragraphs": [
+      "Our Hip Care Program provides expert diagnosis and treatment for a wide range of hip injuries and disorders, including arthritis, labral tears, and hip fractures.",
+      "<h4>Advanced Hip Care</h4>",
+      "Our team of orthopedic specialists is skilled in providing both conservative treatments and surgical interventions, including hip replacement surgery.",
+      "<h4>Comprehensive Treatment Options</h4>",
+      "From non-surgical therapies like physical therapy to advanced surgical options, we offer a range of treatments tailored to each patient’s condition."
+    ],
+    "listItems": [
+      "<b>Diagnostic Imaging</b>: Accurate diagnosis of hip conditions using X-rays, MRIs, and other imaging tools.",
+      "<b>Hip Arthroscopy</b>: Minimally invasive surgery to treat labral tears and other hip joint issues.",
+      "<b>Hip Replacement Surgery</b>: For severe arthritis or injury, we offer total hip replacement using the latest techniques.",
+      "<b>Rehabilitation</b>: Post-surgery rehab programs focused on restoring full hip function."
+    ],
+    "paragraph2": "We are dedicated to providing personalized care for all hip conditions, ensuring that you receive the treatment you need to regain mobility and live pain-free."
+  },
+  "elbowInjuriesDisorders": {
+    "title": "Elbow Injuries and Disorders",
+    "image": "assets/images/service/s7.jpg",
+    "paragraphs": [
+      "Our Elbow Care Program offers specialized treatment for a variety of elbow injuries and disorders, including tennis elbow, fractures, and ligament tears.",
+      "<h4>Comprehensive Elbow Care</h4>",
+      "We provide a range of treatment options for elbow conditions, from physical therapy and injections to surgical interventions. Our goal is to relieve pain and restore full elbow function.",
+      "<h4>Advanced Surgical Techniques</h4>",
+      "When surgery is necessary, our orthopedic team uses advanced techniques to ensure the best possible outcomes, including minimally invasive procedures."
+    ],
+    "listItems": [
+      "<b>Elbow Arthroscopy</b>: Minimally invasive surgery for treating ligament tears and other elbow injuries.",
+      "<b>Fracture Repair</b>: Surgical and non-surgical options for treating elbow fractures.",
+      "<b>Physical Therapy</b>: Personalized rehabilitation plans to restore elbow strength and flexibility.",
+      "<b>Pain Management</b>: Comprehensive pain management options for chronic elbow conditions."
+    ],
+    "paragraph2": "We are committed to providing expert care for elbow conditions, helping you recover fully and return to your daily activities."
+  },
+  "handWristInjuriesDisorders": {
+    "title": "Hand and Wrist Injuries & Disorders",
+    "image": "assets/images/service/s8.jpg",
+    "paragraphs": [
+      "Our Hand and Wrist Care Program offers comprehensive treatment for a wide range of injuries and disorders, including carpal tunnel syndrome, fractures, and tendon injuries.",
+      "<h4>Comprehensive Hand and Wrist Care</h4>",
+      "Our team of specialists provides both non-surgical and surgical options to treat hand and wrist conditions. We focus on restoring function and relieving pain.",
+      "<h4>Advanced Surgical Techniques</h4>",
+      "For more severe conditions, we offer advanced surgical interventions, including minimally invasive procedures and reconstructive surgeries."
+    ],
+    "listItems": [
+      "<b>Carpal Tunnel Treatment</b>: Non-surgical and surgical options for relieving carpal tunnel syndrome.",
+      "<b>Fracture Repair</b>: Surgical and non-surgical options for treating hand and wrist fractures.",
+      "<b>Tendon Repair</b>: Expert care for tendon injuries, including surgical and non-surgical treatments.",
+      "<b>Rehabilitation</b>: Comprehensive rehabilitation plans to restore hand and wrist function."
+    ],
+    "paragraph2": "We are here to provide personalized care for hand and wrist injuries, helping you recover and regain full function."
+  },
+  "footAnkleInjuriesDisorders": {
+    "title": "Foot and Ankle Injuries and Disorders",
+    "image": "assets/images/service/s9.jpg",
+    "paragraphs": [
+      "Our Foot and Ankle Care Program is dedicated to diagnosing and treating a variety of foot and ankle injuries and disorders, from sprains and fractures to bunions and tendonitis.",
+      "<h4>Comprehensive Foot and Ankle Care</h4>",
+      "We offer personalized treatment plans for each patient, focusing on relieving pain and restoring mobility. Our team is skilled in both conservative and surgical treatments for foot and ankle conditions.",
+      "<h4>Advanced Treatment Options</h4>",
+      "From non-surgical therapies like physical therapy and orthotics to surgical interventions, we provide comprehensive care tailored to your condition."
+    ],
+    "listItems": [
+      "<b>Sprain Treatment</b>: Effective care for ankle and foot sprains, including physical therapy and bracing.",
+      "<b>Fracture Repair</b>: Surgical and non-surgical options for treating foot and ankle fractures.",
+      "<b>Reconstructive Surgery</b>: Advanced surgical techniques to correct deformities and restore function.",
+      "<b>Rehabilitation</b>: Personalized rehabilitation programs to help you recover fully and regain mobility."
+    ],
+    "paragraph2": "We are committed to providing expert care for all foot and ankle conditions, helping you return to your active lifestyle as quickly as possible."
+  }
+}
